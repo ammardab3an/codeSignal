@@ -2,6 +2,7 @@
 
     Sub Main()
         Console.WriteLine("module1 is here")
+        Dim b = spiralNumbers(5)
         Console.WriteLine()
     End Sub
 

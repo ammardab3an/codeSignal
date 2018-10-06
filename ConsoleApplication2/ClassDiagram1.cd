@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApplication2.ListNode(Of T)" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAABA=</HashCode>
+      <FileName>Module3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication2.node" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAACAAAAAABAAAAA=</HashCode>
+      <FileName>Module666.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication2.trie" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Module666.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication2.Tree(Of T)" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAgAA=</HashCode>
+      <FileName>tree.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication2.My.MySettings" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="ConsoleApplication2.intro" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>intro.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module1" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QnNTIhUgaEBAwhRBABQSEANAgAIcCGMEFUAGxAKCFAA=</HashCode>
+      <FileName>Module1.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module2" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAQ=</HashCode>
+      <FileName>Module2.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module3" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAQIAAAIAgCAAACAAQ=</HashCode>
+      <FileName>Module3.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module33" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAIAAAAAAQAAAAAAAAAAAQ=</HashCode>
+      <FileName>Module33.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module333" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Module333.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module4" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQ=</HashCode>
+      <FileName>Module4.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module5" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Module5.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module6" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAEAAAAAAAAAAAAAAAAAIAAQBIAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Module6.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module66" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAABAAAAAAQ=</HashCode>
+      <FileName>Module66.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module666" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Module666.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.Module7" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQAAAAAAAAAABAAAAAAAAAAAAIAAAAAAAAAAQ=</HashCode>
+      <FileName>Module7.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2._Tree" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ConsoleApplication2._Tree.type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>tree.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAIACAAAAAQAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>tree.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.My.Resources.Resources" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ConsoleApplication2.My.MySettingsProperty" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
