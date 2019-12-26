@@ -16,3 +16,6 @@ C:\Users\Windows\Documents\Visual Studio 2013\Projects\gitHub\codeSignal\Console
 C:\Users\Windows\Documents\Visual Studio 2013\Projects\gitHub\codeSignal\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
 C:\Users\Windows\Documents\Visual Studio 2013\Projects\gitHub\codeSignal\ConsoleApplication2\obj\Debug\ConsoleApplication2.Resources.resources
 C:\Users\Windows\Documents\Visual Studio 2013\Projects\gitHub\codeSignal\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GitHub\codeSignal\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Administrator\Desktop\GitHub\codeSignal\ConsoleApplication2\obj\Debug\ConsoleApplication2.xml
+C:\Users\Administrator\Desktop\GitHub\codeSignal\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
